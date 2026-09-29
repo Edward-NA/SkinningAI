@@ -26,12 +26,12 @@ SkinningAI aims to provide a **fast, free, and reliable screening tool** that pe
 
 ## Features
 
-- 📷 Upload a skin photo and get an analysis in seconds
-- 🧠 Classification into **7 skin condition classes**
-- 📊 Prediction confidence shown as a percentage
-- 📝 Description of the detected condition and suggested care
-- 🆓 Free to use
-- 🌐 Simple pages: Home, Upload, About Us, Contact Us
+- Upload a skin photo and get an analysis in seconds
+- Classification into **7 skin condition classes**
+- Prediction confidence shown as a percentage
+- Description of the detected condition and suggested care
+- Free to use
+- Simple pages: Home, Upload, About Us, Contact Us
 
 ### Detected Classes
 
